@@ -25,8 +25,7 @@ elif [  $c=4  ]
 then
     echo $(($x / $y))
 else
-    echo "ERROR"
-fi    
+    echo "ERROR"  
 fi                
         
 
